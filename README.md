@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @mohamedayman.
+- 👀 I’m interested in embedded systems.
+- 🌱 I’m currently learning computer engineering.
